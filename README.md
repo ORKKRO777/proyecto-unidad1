@@ -1,0 +1,1 @@
+Este es un texto de ejemplo que se usara como parte de un proyecto para la materia Implementación de sistemas, Unidad 1, Actividad 5. El cual servirá como un archivo .md para realizar el primer Commit del estudiante, por lo que debe cumplir con la instrucción de medir entre dos o tres líneas de texto.
